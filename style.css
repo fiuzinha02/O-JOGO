@@ -1,0 +1,14 @@
+html{
+    background-color: white;
+    text-align: center;
+}
+header{
+    font-style: italic;
+    font-size: 155px;}
+    a{
+        color: white;
+        background-color: black;
+        text-decoration: none;
+        font-size: 50px;
+        margin: auto;
+    }
