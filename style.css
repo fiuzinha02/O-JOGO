@@ -1,5 +1,5 @@
 html{
-    background-color: white;
+    background-color: rgb(145, 145, 145);
     text-align: center;
 }
 header{
@@ -15,3 +15,4 @@ header{
         left: 50%;
         transform: translate(-50%,-50%);
     }
+    

@@ -1,0 +1,4 @@
+var acertou=0
+
+
+
